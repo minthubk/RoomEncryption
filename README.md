@@ -31,7 +31,8 @@ If you want to see local database file you have navigate to device explorer in a
 
 ![image](https://user-images.githubusercontent.com/39657409/72126872-c7971d80-3393-11ea-91ea-2f319a18c53a.png)
 
-Now you could see the two database in your file explorer directory. 
+Now you could see the two database in your file explorer directory. Download the database file and store it in your local directory. If you want to open this DB file you need SQLitebrowser. So, download SQLitebrowser and try to open the database. 
 
 
+![image](https://user-images.githubusercontent.com/39657409/72127807-cb786f00-3396-11ea-9dd9-e5c95dd8ffa3.png)
 
