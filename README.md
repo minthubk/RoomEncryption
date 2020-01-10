@@ -18,3 +18,15 @@ At runtime, you can acquire an instance of Database by calling Room.databaseBuil
 Entity: Represents a table within the database.
 
 DAO: Contains the methods used for accessing the database.
+
+In this project I am using two database one is for withoutencytion another one is for encrytion.
+
+The following screenshots of the main activity.
+
+![image](https://user-images.githubusercontent.com/39657409/72126824-9f0f2380-3393-11ea-96fd-73176d90a961.png
+
+![image](https://user-images.githubusercontent.com/39657409/72126831-a8988b80-3393-11ea-8bce-f74fbfd58b25.png)
+
+If you want to see local database file you have navigate to device explorer in android studio. The attached following screenshot for your reference.
+
+![image](https://user-images.githubusercontent.com/39657409/72126872-c7971d80-3393-11ea-91ea-2f319a18c53a.png)
