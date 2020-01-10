@@ -30,3 +30,8 @@ The following screenshots of the main activity.
 If you want to see local database file you have navigate to device explorer in android studio. The attached following screenshot for your reference.
 
 ![image](https://user-images.githubusercontent.com/39657409/72126872-c7971d80-3393-11ea-91ea-2f319a18c53a.png)
+
+Now you could see the two database in your file explorer directory. 
+
+
+
