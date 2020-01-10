@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#E5FFCC"
+    android:padding="30dp"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/room_without_encrypt"
+        android:layout_width="match_parent"
+        android:background="@drawable/rounded_btn"
+        android:layout_height="wrap_content"
+        android:text="RoomDB Without Encryption" />
+
+    <Button
+        android:id="@+id/room_with_encrypt"
+        android:layout_width="match_parent"
+        android:background="@drawable/rounded_btn"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="RoomDB With Encryption"/>
+   />
+
+</LinearLayout>
